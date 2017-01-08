@@ -1,12 +1,16 @@
 /**
  * Created by jyothi on 8/1/17.
  */
-var config = {
+
+/**
+ * Webpack config
+ */
+module.exports = {
     entry: './App.js',
 
     output: {
         path:'./',
-        filename: 'index.js',
+        filename: 'index.js'
     },
 
     devServer: {
