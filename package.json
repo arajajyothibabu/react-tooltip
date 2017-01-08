@@ -1,0 +1,27 @@
+{
+  "name": "react-tooltip",
+  "version": "1.0.0",
+  "description": "A lightweight tooltip component in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arajajyothibabu/react-tooltip.git"
+  },
+  "keywords": [
+    "react",
+    "tooltip",
+    "light",
+    "weight",
+    "simple",
+    "javascript"
+  ],
+  "author": "Jyothi Babu Araja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arajajyothibabu/react-tooltip/issues"
+  },
+  "homepage": "https://github.com/arajajyothibabu/react-tooltip#readme"
+}
